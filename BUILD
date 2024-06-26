@@ -11,6 +11,7 @@
         "perl_linux_amd64_toolchain",
         "perl_linux_arm64_toolchain",
         "perl_windows_x86_64_toolchain",
+        "perl_linux_s390x_toolchain",
         "toolchain_type",
     ]
 ]
