@@ -64,9 +64,9 @@ platforms = [
         os = "linux",
         cpu = "s390x",
         urls = [
-            "https://github.com/Paramesh324/relocatable-perl/blob/s390x/linux-s390x/perl-linux-s390x.tar.gz",
+            "https://github.com/Paramesh324/relocatable-perl/raw/s390x/linux-s390x/perl-linux-s390x.tar.gz",
         ],
-        sha256 = "30729b7aaccb8e8a4b1b1eb6479277f0871c92b8c87e1f129c806a2f31318e1b",
+        sha256 = "f05ac8c134d0e8efbd89d6c51f2891a75825317cd3e3d94a8f08cb2e9fa4bed3",
         strip_prefix = "perl-linux-s390x",
         exec_compatible_with = [
             "@platforms//os:linux",
